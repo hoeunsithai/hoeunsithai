@@ -43,5 +43,5 @@ Desktop application for managing:
 
 ## 📫 Contact
 
-- GitHub: https://github.com/yourusername
-- Email: your-email@example.com
+- GitHub: https://github.com/hoeunsithai
+- Email: hoeunsithai@gmail.com
